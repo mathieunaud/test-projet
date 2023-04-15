@@ -1,0 +1,3 @@
+-créer repertoire github
+dans cmd, cd "lien du projet"
+collé les commandes dans le cmd
