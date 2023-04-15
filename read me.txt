@@ -1,3 +1,7 @@
 -créer repertoire github
 dans cmd, cd "lien du projet"
 collé les commandes dans le cmd
+git add . -> ajouter tous les fichiers modifié ou créé
+git add "source" -> ajouter un truc précis
+git commit -m "msg" -> envoyer les truc qui ont été add
+git push -> envoyer dans la branche ou on est
